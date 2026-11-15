@@ -1,0 +1,4 @@
+a6750dc487c9c401ce6af66cf88e37b49c68849a2a2d0544fdc68c9bbc17b3cf  assets/peter-obi-anambra-original.pdf
+e5ffef7a06a9f8aea783ed591b114ef83b249b4a6f8e9884aa1b70c595e660d5  assets/ndc-logo.png
+c25920fae93dc35dc3776348f7a66c6a4d3fa4882d55023b1b79af55728ba319  index.html
+e6a82db2d3a40458cdf3f33f9f315635208aecee6fa5ffd02eab1bc9b5a47f68  data/ocr-index.json
